@@ -9,8 +9,8 @@ function varargout = Exp(Operation,Global,input)
             Global.M        = 3;
             Global.D        = 3;
             %假定为100 + 100 + 100的数据集
-            Global.lower    =[1, 301, 601];
-            Global.upper    = [300, 600, 900];
+            Global.lower    =[1, 31, 61];
+            Global.upper    = [30, 60, 90];
             Global.operator = @EAreal;
            % PopDec    = rand(input, bounds);
            % PopDec    = crtrp(input, bounds);
