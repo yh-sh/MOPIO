@@ -1,4 +1,5 @@
 function time = compute(group)
+timev = 0;
     for i=1:size(group,2)
        Dev = dev(group(i)); % 取得设备矩阵
        Time = tim(group(i)); % 取得时间矩阵

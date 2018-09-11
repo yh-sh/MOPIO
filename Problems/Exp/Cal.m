@@ -14,9 +14,9 @@ for i=1:xSize
     for j=1:D %控制类别
         P(i,j) = round(P(i,j));
         cost(i) = cost(i)+data(P(i,j),1);  %粒子成本
-        time(i) = time(i)+data(P(i,j),2);  %粒子时间 待加入调度算法
+        %time(i) = time(i)+data(P(i,j),2);  %粒子时间 待加入调度算法
     end
-    % time(i) = compute(P(i,:));
+    time(i) = compute(P(i,:));
     relat(i)=-relation(P,f,3,i);  %粒子关系和
 end
 y = zeros(xSize, D);
