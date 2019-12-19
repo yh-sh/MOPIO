@@ -6,4 +6,4 @@ This repo is just used for my personal experiment, if you have any question abou
 
 ## Acknowledge
 
-This repo belongs to [BIMK](http://bimk.ahu.edu.cn/) group and has been transferred project from BIMK to github by [@anonymone](https://github.com/anonymone) .
+The plateMO platform belongs to [BIMK](http://bimk.ahu.edu.cn/) group and has been transferred project from BIMK to github by [@anonymone](https://github.com/anonymone) .
