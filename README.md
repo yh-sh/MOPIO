@@ -1,4 +1,4 @@
-## This plateMO framework is supported by BIMK.
+## This platEMO framework is supported by BIMK.
 
 If you want to download the latest version of this framework, just click the [link](https://github.com/BIMK/PlatEMO).
 
@@ -6,4 +6,4 @@ This repo is just used for my personal experiment, if you have any question abou
 
 ## Acknowledge
 
-The plateMO platform belongs to [BIMK](http://bimk.ahu.edu.cn/) group and has been transferred project from BIMK to github by [@anonymone](https://github.com/anonymone) .
+The platEMO platform belongs to [BIMK](http://bimk.ahu.edu.cn/) group and has been transferred project from BIMK to github by [@anonymone](https://github.com/anonymone) .
